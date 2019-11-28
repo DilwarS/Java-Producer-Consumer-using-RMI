@@ -5,5 +5,5 @@ Producer.java is the producer which read a customer information from a text file
 Consumer.java is the consumer which read the customer object from the shared ArrayList and display.
 All the communication takes place through the RMI server.
 
-Implemetation is tested on LAN using RMIServer IP as 10.0.0.1. When you are running on your LAN just all the IPs to your system IP on which you wish to run RMIServer.java
+Implemetation is tested on LAN using RMIServer IP as 192.168.43.13. When you are running on your LAN just all the IPs to your system IP on which you wish to run RMIServer.java
 If you want to run this program on localhost just changed the IP to "localhost".
